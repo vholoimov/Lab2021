@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  2 MAR 2021 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  3 MAR 2021 00:10
 entering extended mode
 **./1.1.tex
 (1.1.tex
@@ -488,49 +488,55 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (C:\Users\Валерий\Desktop\gitFolder\Lab2021\Electr\Lab2\built\1.1.toc
 [1
 
-{C:/Users/Валерий/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
+{C:/Users/Валерий/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Overfull \hbox (5.9729pt too wide) in paragraph at lines 19--19
+ [][] []\T2A/cmr/m/n/12 ��������� �� �����-���-��� ����-����-��� ����i� $\OML/c
+mm/m/it/12 p$\T2A/cmr/m/n/12 $\OML/cmm/m/it/12 n$\T2A/cmr/m/n/12 -��������. ��
+� ���-�i�i���- 
+ []
+
+)
 \tf@toc=\write3
 \openout3 = `1.1.toc'.
 
-
-[2] (Термінологія.tex) [3]
+ [2] (Термінологія.tex) [3]
 (Вступ до практичної частини.tex
-<Схема.png, id=24, 470.25688pt x 280.54813pt>
+<Схема.png, id=27, 470.25688pt x 280.54813pt>
 File: Схема.png Graphic file (type png)
 <use Схема.png>
 Package pdftex.def Info: Схема.png  used on input line 12.
 (pdftex.def)             Requested size: 386.95897pt x 230.85573pt.
 ) [4 <./Схема.png>] (Діод 1.tex
-<Діод1Схема.png, id=30, 490.83376pt x 291.0875pt>
+<Діод1Схема.png, id=33, 490.83376pt x 291.0875pt>
 File: Діод1Схема.png Graphic file (type png)
 <use Діод1Схема.png>
 Package pdftex.def Info: Діод1Схема.png  used on input line 5.
 (pdftex.def)             Requested size: 290.22107pt x 172.11766pt.
-<Діод1Осцилограф.png, id=31, 774.39313pt x 426.59375pt>
+<Діод1Осцилограф.png, id=34, 774.39313pt x 426.59375pt>
 File: Діод1Осцилограф.png Graphic file (type png)
 <use Діод1Осцилограф.png>
 Package pdftex.def Info: Діод1Осцилограф.png  used on input line 
 17.
 (pdftex.def)             Requested size: 362.77264pt x 199.84164pt.
-<Діод1Рез.png, id=32, 161.60374pt x 54.2025pt>
+<Діод1Рез.png, id=35, 161.60374pt x 54.2025pt>
 File: Діод1Рез.png Graphic file (type png)
 <use Діод1Рез.png>
 Package pdftex.def Info: Діод1Рез.png  used on input line 29.
 (pdftex.def)             Requested size: 145.11053pt x 48.67345pt.
 ) [5 <./Діод1Схема.png> <./Діод1Осцилограф.png> <./Ді�
 �д1Рез.png>] (Діод 2.tex
-<Діод2Схема.png, id=40, 461.22313pt x 277.53688pt>
+<Діод2Схема.png, id=43, 461.22313pt x 277.53688pt>
 File: Діод2Схема.png Graphic file (type png)
 <use Діод2Схема.png>
 Package pdftex.def Info: Діод2Схема.png  used on input line 5.
 (pdftex.def)             Requested size: 290.22107pt x 174.6374pt.
-<Діод2Осцилограф.png, id=41, 768.37062pt x 432.11438pt>
+<Діод2Осцилограф.png, id=44, 768.37062pt x 432.11438pt>
 File: Діод2Осцилограф.png Graphic file (type png)
 <use Діод2Осцилограф.png>
 Package pdftex.def Info: Діод2Осцилограф.png  used on input line 
 17.
 (pdftex.def)             Requested size: 362.77264pt x 204.01688pt.
-<Діод2Рез.png, id=42, 158.5925pt x 53.19875pt>
+<Діод2Рез.png, id=45, 158.5925pt x 53.19875pt>
 File: Діод2Рез.png Graphic file (type png)
 <use Діод2Рез.png>
 Package pdftex.def Info: Діод2Рез.png  used on input line 29.
@@ -538,60 +544,76 @@ Package pdftex.def Info: Діод2Рез.png  used on input line 29.
 ) [6 <./Діод2Схема.png> <./Діод2Осцилограф.png> <./Ді�
 �д2Рез.png>]
 (Діод 3.tex
-<Діод3Схема.png, id=49, 470.25688pt x 266.9975pt>
+<Діод3Схема.png, id=52, 470.25688pt x 266.9975pt>
 File: Діод3Схема.png Graphic file (type png)
 <use Діод3Схема.png>
 Package pdftex.def Info: Діод3Схема.png  used on input line 5.
 (pdftex.def)             Requested size: 290.22107pt x 164.77895pt.
-<Діод3Осцилограф.png, id=50, 772.8875pt x 435.6275pt>
+<Діод3Осцилограф.png, id=53, 772.8875pt x 435.6275pt>
 File: Діод3Осцилограф.png Graphic file (type png)
 <use Діод3Осцилограф.png>
 Package pdftex.def Info: Діод3Осцилограф.png  used on input line 
 17.
 (pdftex.def)             Requested size: 362.77264pt x 204.47241pt.
-<Діод3Рез.png, id=51, 160.09813pt x 62.2325pt>
+<Діод3Рез.png, id=54, 160.09813pt x 62.2325pt>
 File: Діод3Рез.png Graphic file (type png)
 <use Діод3Рез.png>
 Package pdftex.def Info: Діод3Рез.png  used on input line 29.
 (pdftex.def)             Requested size: 145.11053pt x 56.40755pt.
 ) [7 <./Діод3Схема.png> <./Діод3Осцилограф.png> <./Ді�
 �д3Рез.png>] (Ардуино.tex
-<АрдуиноСхема.png, id=59, 478.78876pt x 356.83313pt>
+<АрдуиноСхема.png, id=62, 478.78876pt x 356.83313pt>
 File: АрдуиноСхема.png Graphic file (type png)
 <use АрдуиноСхема.png>
-Package pdftex.def Info: АрдуиноСхема.png  used on input line 8.
+Package pdftex.def Info: АрдуиноСхема.png  used on input line 6.
 (pdftex.def)             Requested size: 290.22107pt x 216.29578pt.
-<Ардуино1.png, id=60, 1003.75pt x 501.875pt>
+<Ардуино1.png, id=63, 1003.75pt x 501.875pt>
 File: Ардуино1.png Graphic file (type png)
 <use Ардуино1.png>
-Package pdftex.def Info: Ардуино1.png  used on input line 24.
+Package pdftex.def Info: Ардуино1.png  used on input line 19.
 (pdftex.def)             Requested size: 386.95897pt x 193.479pt.
-) [8 <./АрдуиноСхема.png>] [9 <./Ардуино1.png>]
+) [8 <./АрдуиноСхема.png> <./Ардуино1.png>] (Контрол�
+�ні.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+ [9])
+(Література.tex [10]) [11]
 (C:\Users\Валерий\Desktop\gitFolder\Lab2021\Electr\Lab2\built\1.1.aux) )
  
 Here is how much of TeX's memory you used:
- 4258 strings out of 479334
- 62688 string characters out of 2852809
- 373383 words of memory out of 3000000
- 21588 multiletter control sequences out of 15000+200000
- 415102 words of font info for 47 fonts, out of 3000000 for 9000
+ 4287 strings out of 479334
+ 63322 string characters out of 2852809
+ 377397 words of memory out of 3000000
+ 21598 multiletter control sequences out of 15000+200000
+ 416885 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,74p,666b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,6n,74p,969b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
-\labx1440.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\labx1200.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/
-pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Валерий\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Валерий\A
-ppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\В�
-�лерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> 
+\lati1200.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\labx1440.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/
+pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Валерий\AppData\Local\
+MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Валерий\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\В�
+�лерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> 
 <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-labx2488.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\lacc1728.pk><C:/Users/Валерий/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+lati1440.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\labx2488.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\lacc1728.pk><C:/Users/Валерий/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Валери�
+�/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Us
+ers/Валерий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb><C:/Users/Валерий/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Users/Валерий/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Валерий/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Вал�
+�рий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+
 Output written on C:\Users\Валерий\Desktop\gitFolder\Lab2021\Electr\Lab2
-\built\1.1.pdf (9 pages, 597248 bytes).
+\built\1.1.pdf (11 pages, 685344 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
+ 450 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
