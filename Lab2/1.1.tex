@@ -1,0 +1,82 @@
+
+
+
+\documentclass[a4paper,12pt]{article}
+
+\usepackage{cmap}					% поиск в PDF
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{graphicx}
+\usepackage{float}%"Плавающие" картинки
+\usepackage{wrapfig}%Обтекание фигур (таблиц, картинок и прочего)
+\usepackage{parskip}
+\usepackage{mathtext}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{2em}
+
+
+\author{Имя Автора}
+\title{1.1 Наш первый документ}
+\date{\today}
+
+\begin{document} % Конец преамбулы, начало текста.
+\input{Начало}
+
+
+
+\tableofcontents
+
+\newpage
+
+\section{Вступна частина}
+\subsection{Об'єкт дослідження}
+Визначення вольт-амперної характеристики діодів. Моделюванння ВАХ діодів.
+\subsection{Мета}
+Дослідити ВАХ діодів. Порівняти ВАХ різних діодів.
+\subsection{Методи дослідження}
+Один з каналів отримує напругу на діоді. Другий канал отримує напругу на відомому резисторі, що дає можливість визначити нам сили струму на ділянці кола. На екрані двоканального осцилографа спостерігаємо графік залежності напруги на діоді від сили струми на ділянці колі.
+
+\section{Теоретична частина}
+\subsection{Термінологія}
+\input{Термінологія}
+\newpage
+
+
+\section{Практична частина}
+\subsection{Вступ до практичної частини}
+\input{Вступ до практичної частини}
+\newpage
+\subsection{Діод 1}
+\input{Діод 1}
+\newpage
+\subsection{Діод 2}
+\input{Діод 2}
+\newpage
+\subsection{Діод 3}
+\input{Діод 3}
+\newpage
+\subsection{Робота з Arduino}
+\input{Ардуино}
+
+
+
+
+
+
+\section{Відповіді на контрольні запитання}
+\subsection{Контрольне питання 1}
+
+
+
+
+
+
+
+
+
+
+
+\end{document} % Конец текста.
