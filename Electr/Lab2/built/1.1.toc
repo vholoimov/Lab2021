@@ -1,0 +1,15 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Вступна частина}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Об'єкт дослідження}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Мета}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Методи дослідження}{3}{}%
+\contentsline {section}{\numberline {2}Теоретична частина}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Термінологія}{3}{}%
+\contentsline {section}{\numberline {3}Практична частина}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Вступ до практичної частини}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Діод 1}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Діод 2}{6}{}%
+\contentsline {subsection}{\numberline {3.4}Діод 3}{7}{}%
+\contentsline {subsection}{\numberline {3.5}Робота з Arduino}{8}{}%
+\contentsline {section}{\numberline {4}Відповіді на контрольні запитання}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Контрольне питання 1}{8}{}%
