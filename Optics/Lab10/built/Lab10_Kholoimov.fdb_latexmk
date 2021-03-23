@@ -1,8 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1615926019 "Lab10_Kholoimov.tex" "built/Lab10_Kholoimov.pdf" "Lab10_Kholoimov" 1615926030
-  "Lab10_Kholoimov.tex" 1615424138 987 2fc4fa03c1d26e2756a275cbd607a095 ""
-  "built/Lab10_Kholoimov.aux" 1615926029 249 02f54b0774050a1ae3cec68b742dd878 "pdflatex"
+["pdflatex"] 1616452492 "Lab10_Kholoimov.tex" "built/Lab10_Kholoimov.pdf" "Lab10_Kholoimov" 1616452503
+  "Lab10_Kholoimov.tex" 1616452234 1037 40bd605a1e8631330d991d019c376d78 ""
+  "Pics/Teo.png" 1616449306 39029 44c84996f71b3903315b806ef1221694 ""
+  "Pics/alpha.png" 1616449351 14548 95fcdc8eeb30300d7251380a498faafc ""
+  "Pics/count.png" 1616449369 16082 ebcdf1b77a32627a3477a2ab616278de ""
+  "Pics/lenght.png" 1616449336 12139 ccff01b781a8c78f2e9a226a2bbd4128 ""
+  "Pics/width.png" 1616449320 28738 5a3df46ded6cc10f81b8a4743700d453 ""
+  "built/Lab10_Kholoimov.aux" 1616452503 998 b117ea341ce7f6e2aec915417c526245 "pdflatex"
   (generated)
-  "built/Lab10_Kholoimov.aux"
-  "built/Lab10_Kholoimov.log"
   "built/Lab10_Kholoimov.pdf"
+  "built/Lab10_Kholoimov.log"
+  "built/Lab10_Kholoimov.aux"

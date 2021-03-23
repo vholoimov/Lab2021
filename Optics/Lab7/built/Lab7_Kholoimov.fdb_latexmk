@@ -1,8 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1615927908 "Lab7_Kholoimov.tex" "built/Lab7_Kholoimov.pdf" "Lab7_Kholoimov" 1615927919
-  "Lab7_Kholoimov.tex" 1615927833 987 2fc4fa03c1d26e2756a275cbd607a095 ""
-  "built/Lab7_Kholoimov.aux" 1615927918 249 1355d894e8f2048fb25447dbda649d4f "pdflatex"
+["pdflatex"] 1616536394 "Lab7_Kholoimov.tex" "built/Lab7_Kholoimov.pdf" "Lab7_Kholoimov" 1616536406
+  "Lab7_Kholoimov.tex" 1616535737 1045 dd6bf8271ca4c4704613a1b44c700575 ""
+  "Pics/Plot1.png" 1616531339 13742 6377aa40dadac9ea63356c7b9c852c34 ""
+  "Pics/table1.png" 1616534279 13795 0c1e9cc499a310c206bc961a2f33fdcf ""
+  "Pics/table2.png" 1616534295 30945 c5593e80d2ad8599b6ac73ae36c7e548 ""
+  "built/Lab7_Kholoimov.aux" 1616536405 697 c3c1bcf5c9b5d8e76bcda38883f5406e "pdflatex"
   (generated)
-  "built/Lab7_Kholoimov.log"
   "built/Lab7_Kholoimov.pdf"
+  "built/Lab7_Kholoimov.log"
   "built/Lab7_Kholoimov.aux"
