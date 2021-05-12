@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  23 MAR 2021 22:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  5 MAY 2021 01:38
 entering extended mode
 **./Lab3_Kholoimov.tex
 (Lab3_Kholoimov.tex
@@ -488,7 +488,11 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box53
 )
 (C:\Users\Валерий\Desktop\gitFolder\Lab2021\Optics\Lab3\built\Lab3_Kholo
-imov.aux)
+imov.aux
+
+LaTeX Warning: Label `Prac3' multiply defined.
+
+)
 \openout1 = `Lab3_Kholoimov.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -602,126 +606,91 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
 {C:/Users/Валерий/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (Text/Част1.tex
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 11.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 16.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 11.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 16.
 
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \textdegree invalid in math mode on input line 16.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 16.
-
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 17.
 
 
+LaTeX Warning: Command \cyrm invalid in math mode on input line 17.
 
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
 
-
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
-
+LaTeX Warning: Command \cyrn invalid in math mode on input line 18.
 
 
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 18.
 
+Missing character: There is no � in font cmr12!
+Missing character: There is no � in font cmr12!
+) [2] (Text/Част2.tex
+<Pics/tabl1.png, id=25, 878.28125pt x 163.10938pt>
+File: Pics/tabl1.png Graphic file (type png)
+<use Pics/tabl1.png>
+Package pdftex.def Info: Pics/tabl1.png  used on input line 12.
+(pdftex.def)             Requested size: 483.69687pt x 89.83237pt.
+<Pics/tabl2.png, id=27, 703.62875pt x 181.17688pt>
+File: Pics/tabl2.png Graphic file (type png)
+<use Pics/tabl2.png>
+Package pdftex.def Info: Pics/tabl2.png  used on input line 25.
+(pdftex.def)             Requested size: 483.69687pt x 124.54495pt.
+ [3 <./Pics/tabl1.png> <./Pics/tabl2.png>]
+<Pics/tabl3.png, id=35, 706.64pt x 321.2pt>
+File: Pics/tabl3.png Graphic file (type png)
+<use Pics/tabl3.png>
+Package pdftex.def Info: Pics/tabl3.png  used on input line 40.
+(pdftex.def)             Requested size: 483.69687pt x 219.86383pt.
+<Pics/tabl5.png, id=36, 547.54562pt x 292.59312pt>
+File: Pics/tabl5.png Graphic file (type png)
+<use Pics/tabl5.png>
+Package pdftex.def Info: Pics/tabl5.png  used on input line 52.
+(pdftex.def)             Requested size: 435.32422pt x 232.62827pt.
+ [4 <./Pics/tabl3.png> <./Pics/tabl5.png (PNG copy)>]) (Text/Част3.tex) [5]
 
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 17.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 17.
-
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
-
-
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
-
-
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 18.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 18.
-
-
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 18.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 18.
-
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 18.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 18.
-
-Missing character: There is no � in font cmr8!
-Missing character: There is no � in font cmr8!
-[2] [3]) [4]
 (C:\Users\Валерий\Desktop\gitFolder\Lab2021\Optics\Lab3\built\Lab3_Kholo
 imov.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 4733 strings out of 479334
- 68830 string characters out of 2852809
- 389503 words of memory out of 3000000
- 22065 multiletter control sequences out of 15000+200000
- 416185 words of font info for 51 fonts, out of 3000000 for 9000
+ 4766 strings out of 479334
+ 69470 string characters out of 2852809
+ 383566 words of memory out of 3000000
+ 22086 multiletter control sequences out of 15000+200000
+ 416666 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,4n,88p,1557b,173s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 81i,5n,88p,407b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
-00\labi1200.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\labx1200.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\font
-s/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Валерий\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Валерий
-\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\�
-�алерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk
+00\labx1440.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labi1200.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Валерий\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Валерий
+\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\�
+�алерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk
 > <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx2488.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
-/lh-t2a/dpi600\lacc1728.pk><C:/Users/Валерий/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Валерий/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Вал�
-�рий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/Валерий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr6.pfb><C:/Users/Валерий/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/Валерий/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Валерий/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+0\lati1440.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\labx2488.pk> <C:\Users\Валерий\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk><C:/Users/Валерий/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Валер�
+�й/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Users/Валерий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Users/Валерий/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Users/Валерий/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on C:\Users\Валерий\Desktop\gitFolder\Lab2021\Optics\Lab3
-\built\Lab3_Kholoimov.pdf (4 pages, 151186 bytes).
+\built\Lab3_Kholoimov.pdf (5 pages, 415735 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
+ 297 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

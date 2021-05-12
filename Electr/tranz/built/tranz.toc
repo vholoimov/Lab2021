@@ -1,0 +1,15 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Вступна частина}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Об'єкт дослідження}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Мета}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Методи досліджень}{3}{}%
+\contentsline {section}{\numberline {2}Теоретична частина}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Термінологія}{4}{}%
+\contentsline {section}{\numberline {3}Практична частина}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Схема дослідів з біполярним транзистором}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Загальна схема дослідів з польовим транзистором}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Покази приладів при 50$\%$}{7}{}%
+\contentsline {subsection}{\numberline {3.4}Покази приладів при 30$\%$}{8}{}%
+\contentsline {subsection}{\numberline {3.5}Покази приладів при 90$\%$}{9}{}%
+\contentsline {section}{\numberline {4}Висновки}{10}{}%
+\contentsline {section}{\numberline {5}Використані джерела}{10}{}%

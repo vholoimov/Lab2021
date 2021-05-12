@@ -1,0 +1,1369 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  16 MAR 2021 11:55
+entering extended mode
+**./Част1.tex
+(Част1.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+Част1.tex:1: Undefined control sequence.
+l.1 \section
+            {Вступна частина}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Част1.tex:1: Package inputenc Error: Unicode character В (U+0412)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{В
+               ступна частина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вс
+                 тупна частина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вст
+                   упна частина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character у (U+0443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Всту
+                     пна частина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступ
+                       на частина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступн
+                         а частина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна
+                            частина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character ч (U+0447)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна ч
+                              астина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна ча
+                                стина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна час
+                                  тина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна част
+                                    ина}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна части
+                                      на}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна частин
+                                        а}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:1: Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Вступна частина
+                                          }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent
+            \textbf{Мета роботи:} засвоїти інтерфе�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Част1.tex:3: Package inputenc Error: Unicode character М (U+041C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character б (U+0431)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:}
+                                            засвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character з (U+0437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:} з
+                                              асвоїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:} за
+                                                своїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \indent \textbf{Мета роботи:} зас
+                                                  воїти інтерфе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...nt \textbf{Мета роботи:} засв
+                                                  оїти інтерфер�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... \textbf{Мета роботи:} засво
+                                                  їти інтерфере�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character ї (U+0457)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...textbf{Мета роботи:} засвої
+                                                  ти інтерферен�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...xtbf{Мета роботи:} засвоїт
+                                                  и інтерференц�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...bf{Мета роботи:} засвоїти
+                                                   інтерференці�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character і (U+0456)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...Мета роботи:} засвоїти і
+                                                  нтерференційн...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ета роботи:} засвоїти ін
+                                                  терференційни...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...та роботи:} засвоїти інт
+                                                  ерференційний...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...а роботи:} засвоїти інте
+                                                  рференційний �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... роботи:} засвоїти інтер
+                                                  ференційний м�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character ф (U+0444)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�оботи:} засвоїти інтерф
+                                                  еренційний ме�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�боти:} засвоїти інтерфе
+                                                  ренційний мет�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�оти:} засвоїти інтерфер
+                                                  енційний мето�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ти:} засвоїти інтерфере
+                                                  нційний метод ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�и:} засвоїти інтерферен
+                                                  ційний метод в...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character ц (U+0446)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�:} засвоїти інтерференц
+                                                  ійний метод ви...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character і (U+0456)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...} засвоїти інтерференці
+                                                  йний метод вим...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character й (U+0439)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...засвоїти інтерференцій
+                                                  ний метод вимі...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...асвоїти інтерференційн
+                                                  ий метод вимір...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...своїти інтерференційни
+                                                  й метод вимірю...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character й (U+0439)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...воїти інтерференційний
+                                                   метод вимірюв...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�їти інтерференційний м
+                                                  етод вимірюва�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ти інтерференційний ме
+                                                  тод вимірюван�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�и інтерференційний мет
+                                                  од вимірюванн�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...� інтерференційний мето
+                                                  д вимірювання ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character д (U+0434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...інтерференційний метод
+                                                   вимірювання д...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�терференційний метод в
+                                                  имірювання до�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ерференційний метод ви
+                                                  мірювання дов�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�рференційний метод вим
+                                                  ірювання довж�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character і (U+0456)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ференційний метод вимі
+                                                  рювання довжи�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�еренційний метод вимір
+                                                  ювання довжин�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character ю (U+044E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ренційний метод вимірю
+                                                  вання довжини ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�енційний метод вимірюв
+                                                  ання довжини х...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�нційний метод вимірюва
+                                                  ння довжини хв...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ційний метод вимірюван
+                                                  ня довжини хви...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ійний метод вимірюванн
+                                                  я довжини хвил...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character я (U+044F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�йний метод вимірювання
+                                                   довжини хвилі...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character д (U+0434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ний метод вимірювання д
+                                                  овжини хвилі з...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ий метод вимірювання до
+                                                  вжини хвилі за...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...й метод вимірювання дов
+                                                  жини хвилі за �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character ж (U+0436)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... метод вимірювання довж
+                                                  ини хвилі за д�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�етод вимірювання довжи
+                                                  ни хвилі за до�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�тод вимірювання довжин
+                                                  и хвилі за доп�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�од вимірювання довжини
+                                                   хвилі за допо�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character х (U+0445)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...д вимірювання довжини х
+                                                  вилі за допомо...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... вимірювання довжини хв
+                                                  илі за допомог...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�имірювання довжини хви
+                                                  лі за допомогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character л (U+043B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�мірювання довжини хвил
+                                                  і за допомогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character і (U+0456)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ірювання довжини хвилі
+                                                   за допомогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character з (U+0437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...рювання довжини хвилі з
+                                                  а допомогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ювання довжини хвилі за
+                                                   допомогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character д (U+0434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ання довжини хвилі за д
+                                                  опомогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ння довжини хвилі за до
+                                                  помогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ня довжини хвилі за доп
+                                                  омогою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�я довжини хвилі за допо
+                                                  могою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...� довжини хвилі за допом
+                                                  огою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...довжини хвилі за допомо
+                                                  гою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character г (U+0433)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...овжини хвилі за допомог
+                                                  ою
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...вжини хвилі за допомого
+                                                  ю
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:3: Package inputenc Error: Unicode character ю (U+044E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...жини хвилі за допомогою
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character б (U+0431)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 б
+      іпризми Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character і (U+0456)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 бі
+        призми Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біп
+          ризми Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біпр
+            изми Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біпри
+              зми Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character з (U+0437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біприз
+                ми Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біпризм
+                  и Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біпризми
+                     Френеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character Ф (U+0424)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біпризми Ф
+                       ренеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біпризми Фр
+                         енеля. \par
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Част1.tex:4: Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 біпризми Фре
+                           неля. \par
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 53 strings out of 479334
+ 1012 string characters out of 2852809
+ 282611 words of memory out of 3000000
+ 17605 multiletter control sequences out of 15000+200000
+ 403738 words of font info for 28 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,1n,15p,230b,72s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Част1.tex:4:  ==> Fatal error occurred, no output PDF file produced!

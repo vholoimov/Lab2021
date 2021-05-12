@@ -1,0 +1,19 @@
+# Fdb version 3
+["pdflatex"] 1619185398 "tranz.tex" "built/tranz.pdf" "tranz" 1619185411
+  "Pic/30_1.png" 1619171309 17595 90db06f74f2603a878d7f207c40765d8 ""
+  "Pic/30_2.png" 1619171301 5285 9523b4d5b16bfa0f2c082cbd82c7d723 ""
+  "Pic/51_1.png" 1619171262 9981 2ed6ad111b1908d8dbddb7797d658fad ""
+  "Pic/51_2.png" 1619171287 7921 10a83b060f964bbc6165e989f989f2e4 ""
+  "Pic/90_1.png" 1619171326 17985 a73ce594cc1c765d3211dd7782552baa ""
+  "Pic/90_2.png" 1619171318 6989 73fdb155c29f500189912e5d1086daeb ""
+  "Pic/first_1.png" 1619184835 26481 b6fd9c634092abd57dc5e85e2ca02211 ""
+  "Pic/first_2.png" 1619184856 10192 aaa5c373257eb23efac5e44588d60e96 ""
+  "Pic/shema.png" 1619129389 25174 cc3944b5db2adbaba2933a392cfbae28 ""
+  "built/tranz.aux" 1619185410 1955 240922576025125bc2d3416e89382b41 "pdflatex"
+  "built/tranz.toc" 1619185410 1271 e438b9e9b0ff02461e6cf6b6538ce185 "pdflatex"
+  "tranz.tex" 1619170356 1055 fb05946921c1365a8e1430f22b5f4cd2 ""
+  (generated)
+  "built/tranz.pdf"
+  "built/tranz.aux"
+  "built/tranz.toc"
+  "built/tranz.log"

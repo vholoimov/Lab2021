@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage{cmap}					% поиск в PDF
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm,bindingoffset=0cm]{geometry}
+\usepackage{graphicx}
+\usepackage{float}%"Плавающие" картинки
+\usepackage{wrapfig}%Обтекание фигур (таблиц, картинок и прочего)
+\usepackage{mathtext}
+\usepackage{mathtools}
+\usepackage{indentfirst}
+\setlength{\parskip}{0em}
+\setlength{\parindent}{4em}
+
+
+\author{Холоімов Валерій}
+\title{1.1 Наш первый документ}
+\date{\today}
+
+\begin{document} % Конец преамбулы, начало текста.
+
+\input{Text/Нвчало}
+\newpage
+\tableofcontents
+
+
+\newpage
+\input{Text/Част1}
+\newpage
+\input{Text/Част2}
+\input{Text/Част3}
+
+\end{document}

@@ -1,0 +1,19 @@
+# Fdb version 3
+["pdflatex"] 1619170276 "RC.tex" "built/RC.pdf" "RC" 1619170287
+  "Pic/first_1.png" 1619129506 11382 0c83b09cb0396b25469515d5dfa6823b ""
+  "Pic/first_2.png" 1619129506 12044 94397ebcfceb05e22fd85f536be839a8 ""
+  "Pic/first_circuit.png" 1619129385 19133 ed4f324d4dd3720a0021df515ed34985 ""
+  "Pic/second_1.png" 1619129506 12998 d2432af5c87a3a09f6cd999b718ec2f4 ""
+  "Pic/second_2.png" 1619129505 12551 099c861d7da00df03947653546e3dea8 ""
+  "Pic/second_circuit.png" 1619129408 21243 ad05141d348b24e658787e0f2b2fee3c ""
+  "Pic/third_1.png" 1619129505 12172 d6c3843ef96dda6d83b574e852e1acf0 ""
+  "Pic/third_2.png" 1619129506 12939 231619d520951797ee0ace2c0d98c352 ""
+  "Pic/third_circuit.png" 1619129496 21139 7de14fd3528249961bdddbaecc9eff99 ""
+  "RC.tex" 1619130367 1055 fb05946921c1365a8e1430f22b5f4cd2 ""
+  "built/RC.aux" 1619170286 2068 b79a64c3686e0f830f987d64cdb83501 "pdflatex"
+  "built/RC.toc" 1619170286 1426 70c5a119333baa5809fd35754ecae24a "pdflatex"
+  (generated)
+  "built/RC.log"
+  "built/RC.toc"
+  "built/RC.aux"
+  "built/RC.pdf"
