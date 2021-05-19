@@ -1,0 +1,8 @@
+# Fdb version 3
+["pdflatex"] 1620848105 "prog.tex" "built/prog.pdf" "prog" 1620848116
+  "built/prog.aux" 1620848115 1418 0502811c9fb7230c575ae3b606943789 "pdflatex"
+  "prog.tex" 1620848105 3781 5cdcec9206399d90d634ce2618b3ebd4 ""
+  (generated)
+  "built/prog.pdf"
+  "built/prog.log"
+  "built/prog.aux"

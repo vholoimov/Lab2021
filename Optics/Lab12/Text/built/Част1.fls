@@ -1,0 +1,5 @@
+PWD C:\Users\Валерий\Desktop\gitFolder\Lab2021\Optics\Lab10\Text
+INPUT C:\Users\Валерий\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT Част1.tex
+OUTPUT C:\Users\Валерий\Desktop\gitFolder\Lab2021\Optics\Lab10\Text\built\Част1.log
+INPUT C:\Users\Валерий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
