@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  24 MAY 2021 02:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  16 MAR 2021 22:20
 entering extended mode
-**./prog.tex
-(prog.tex
+**./Lab10_Kholoimov.tex
+(Lab10_Kholoimov.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>
 (C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
@@ -487,26 +487,27 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box53
 )
-(C:\Users\–í–∞–ª–µ—Ä–∏–π\Desktop\gitFolder\Lab2021\prog\built\prog.aux)
-\openout1 = `prog.aux'.
+(C:\Users\–í–∞–ª–µ—Ä–∏–π\Desktop\gitFolder\Lab2021\Optics\Lab10\built\Lab10_Kho
+loimov.aux)
+\openout1 = `Lab10_Kholoimov.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Info: Redefining \th on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Info: Redefining \th on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -563,41 +564,172 @@ pstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+) (Text/–ù–≤—á–∞–ª–æ.tex<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+2.
+
+(C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (7.92902pt too wide) in paragraph at lines 24--27
-| \T2A/cmr/m/n/12 ŒÒÚ‡Ì-ÌiÈ iÍ ˇ ‡Í-ÚË‚-ÌÓ Á‡È-Ï‡-˛Ò¸ ‚Ó-ÎÓÌ-ÚÂ-ÒÚ‚ÓÏ Û ÒÚÛ-‰
-ÂÌÚÒ¸-ÍiÈ Ó-„‡Ìi-Á‡-ˆi® Erasmus
- []
 
+LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
+(Font)              using `OML/cmr/m/it' instead on input line 22.
 
-Overfull \hbox (18.72931pt too wide) in paragraph at lines 29--31
-| \T2A/cmr/m/n/12 I‚ÂÌ-ÚË ÔÓ ÚÂ, ˇÍ ÁÓ-·Ë-ÚË ‚Î‡ÒÌÂ \T2A/cmr/bx/n/12 CV \T2A/
-cmr/m/n/12 Í‡-˘ËÏ, ˇÍ Ô‡-‚ËÎ¸-ÌÓ ÍÓ-Ë-ÒÚÛ-‚‡-ÚË-Òˇ \T2A/cmr/bx/n/12 Linkedin
-\T2A/cmr/m/n/12 .
- []
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 22.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+2.
 
-[1
+(C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
+(Font)              using `OMS/cmr/m/n' instead on input line 22.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+) [1
 
 {C:/Users/–í–∞–ª–µ—Ä–∏–π/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-[2] (C:\Users\–í–∞–ª–µ—Ä–∏–π\Desktop\gitFolder\Lab2021\prog\built\prog.aux) ) 
+(Text/–ß–∞—Å—Ç1.tex
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 13.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 32.
+
+Missing character: There is no ı in font cmr12!
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 32.
+
+Missing character: There is no Ã in font cmr12!
+
+LaTeX Warning: Command \CYRO invalid in math mode on input line 32.
+
+Missing character: There is no Œ in font cmr12!
+[2]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 45.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 45.
+
+Missing character: There is no ∞ in font cmr12!
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+Missing character: There is no ∫ in font cmr12!
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+Missing character: There is no ∫ in font cmr12!
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 46.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 46.
+
+Missing character: There is no „ in font cmr8!
+Missing character: There is no  in font cmr8!
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+Missing character: There is no ∫ in font cmr12!
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
+
+
+Missing character: There is no ∫ in font cmr12!
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 47.
+
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 47.
+
+
+Missing character: There is no ∫ in font cmr12!
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 47.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 47.
+
+Missing character: There is no „ in font cmr8!
+Missing character: There is no  in font cmr8!
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 47.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 47.
+
+Missing character: There is no „ in font cmr8!
+Missing character: There is no  in font cmr8!
+[3] [4]) [5]
+(C:\Users\–í–∞–ª–µ—Ä–∏–π\Desktop\gitFolder\Lab2021\Optics\Lab10\built\Lab10_Kho
+loimov.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4606 strings out of 479334
- 66660 string characters out of 2852809
- 385483 words of memory out of 3000000
- 21994 multiletter control sequences out of 15000+200000
- 408598 words of font info for 34 fonts, out of 3000000 for 9000
+ 4733 strings out of 479334
+ 68853 string characters out of 2852809
+ 388505 words of memory out of 3000000
+ 22065 multiletter control sequences out of 15000+200000
+ 416185 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,4n,88p,883b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
- <
-C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-abx1440.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\labx1200.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk>
-Output written on C:\Users\–í–∞–ª–µ—Ä–∏–π\Desktop\gitFolder\Lab2021\prog\built\
-prog.pdf (2 pages, 72876 bytes).
+ 81i,5n,88p,1558b,173s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
+00\labi1200.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1200.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π
+\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\–
+í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk
+> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\labx2488.pk> <C:\Users\–í–∞–ª–µ—Ä–∏–π\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\lacc1728.pk><C:/Users/–í–∞–ª–µ—Ä–∏–π/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/–í–∞–ª–µ—Ä–∏–π/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/–í–∞–ª–
+µ—Ä–∏–π/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Users/–í–∞–ª–µ—Ä–∏–π/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb><C:/Users/–í–∞–ª–µ—Ä–∏–π/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/–í–∞–ª–µ—Ä–∏–π/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/–í–∞–ª–µ—Ä–∏–π/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on C:\Users\–í–∞–ª–µ—Ä–∏–π\Desktop\gitFolder\Lab2021\Optics\Lab1
+0\built\Lab10_Kholoimov.pdf (5 pages, 161236 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
+ 274 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 5 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

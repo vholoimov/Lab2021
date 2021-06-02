@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  24 MAY 2021 02:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.24)  19 MAY 2021 00:24
 entering extended mode
-**./prog.tex
-(prog.tex
+**./Lab4_Kholoimov.tex
+(Lab4_Kholoimov.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>
 (C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
@@ -487,26 +487,34 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box53
 )
-(C:\Users\Р’Р°Р»РµСЂРёР№\Desktop\gitFolder\Lab2021\prog\built\prog.aux)
-\openout1 = `prog.aux'.
+(C:\Users\Р’Р°Р»РµСЂРёР№\Desktop\gitFolder\Lab2021\Optics\Lab4\built\Lab4_Kholo
+imov.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Info: Redefining \th on input line 22.
+LaTeX Warning: Label `table1' multiply defined.
+
+
+LaTeX Warning: Label `table1' multiply defined.
+
+)
+\openout1 = `Lab4_Kholoimov.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Info: Redefining \th on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -563,41 +571,99 @@ pstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+) (Text/РќРІС‡Р°Р»Рѕ.tex<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+2.
+
+(C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (7.92902pt too wide) in paragraph at lines 24--27
-| \T2A/cmr/m/n/12 Остан-нiй рiк я ак-тив-но зай-ма-юсь во-лон-тер-ством у сту-д
-ентсь-кiй ор-ганi-за-цiЁ Erasmus
- []
 
+LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
+(Font)              using `OML/cmr/m/it' instead on input line 22.
 
-Overfull \hbox (18.72931pt too wide) in paragraph at lines 29--31
-| \T2A/cmr/m/n/12 Iвен-ти про те, як зро-би-ти власне \T2A/cmr/bx/n/12 CV \T2A/
-cmr/m/n/12 кра-щим, як пра-виль-но ко-ри-сту-ва-ти-ся \T2A/cmr/bx/n/12 Linkedin
-\T2A/cmr/m/n/12 .
- []
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 22.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+2.
 
-[1
+(C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
+(Font)              using `OMS/cmr/m/n' instead on input line 22.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+) [1
 
 {C:/Users/Р’Р°Р»РµСЂРёР№/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-[2] (C:\Users\Р’Р°Р»РµСЂРёР№\Desktop\gitFolder\Lab2021\prog\built\prog.aux) ) 
+(Text/Р§Р°СЃС‚1.tex) [2] (Text/Р§Р°СЃС‚2.tex
+<Pics/tabl1.png, id=28, 402.50375pt x 122.4575pt>
+File: Pics/tabl1.png Graphic file (type png)
+<use Pics/tabl1.png>
+Package pdftex.def Info: Pics/tabl1.png  used on input line 12.
+(pdftex.def)             Requested size: 266.03474pt x 80.93803pt.
+<Pics/tabl2.png, id=30, 402.50375pt x 225.84375pt>
+File: Pics/tabl2.png Graphic file (type png)
+<use Pics/tabl2.png>
+Package pdftex.def Info: Pics/tabl2.png  used on input line 28.
+(pdftex.def)             Requested size: 338.58632pt x 189.97968pt.
+<Pics/tabl3.png, id=31, 421.575pt x 379.91937pt>
+File: Pics/tabl3.png Graphic file (type png)
+<use Pics/tabl3.png>
+Package pdftex.def Info: Pics/tabl3.png  used on input line 38.
+(pdftex.def)             Requested size: 338.58632pt x 305.1359pt.
+) [3 <./Pics/tabl1.png> <./Pics/tabl2.png>] (Text/Р§Р°СЃС‚3.tex) [4 <./Pics/tab
+l3.png>]
+(C:\Users\Р’Р°Р»РµСЂРёР№\Desktop\gitFolder\Lab2021\Optics\Lab4\built\Lab4_Kholo
+imov.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4606 strings out of 479334
- 66660 string characters out of 2852809
- 385483 words of memory out of 3000000
- 21994 multiletter control sequences out of 15000+200000
- 408598 words of font info for 34 fonts, out of 3000000 for 9000
+ 4757 strings out of 479334
+ 69344 string characters out of 2852809
+ 385552 words of memory out of 3000000
+ 22078 multiletter control sequences out of 15000+200000
+ 416666 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,4n,88p,883b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
- <
-C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-abx1440.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\labx1200.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk>
-Output written on C:\Users\Р’Р°Р»РµСЂРёР№\Desktop\gitFolder\Lab2021\prog\built\
-prog.pdf (2 pages, 72876 bytes).
+ 81i,5n,88p,690b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
+00\labx1440.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labi1200.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Р’Р°Р»РµСЂРёР№
+\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Р
+’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk
+> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\lati1440.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\labx2488.pk> <C:\Users\Р’Р°Р»РµСЂРёР№\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\lacc1728.pk><C:/Users/Р’Р°Р»РµСЂРёР№/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Р’Р°Р»РµСЂР
+ёР№/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Users/Р’Р°Р»РµСЂРёР№/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Users/Р’Р°Р»РµСЂРёР№/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr6.pfb><C:/Users/Р’Р°Р»РµСЂРёР№/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Р’Р°Р»РµСЂРёР№/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on C:\Users\Р’Р°Р»РµСЂРёР№\Desktop\gitFolder\Lab2021\Optics\Lab4
+\built\Lab4_Kholoimov.pdf (4 pages, 1090652 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
+ 303 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 5 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
