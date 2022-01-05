@@ -1,8 +1,0 @@
-# Fdb version 3
-["pdflatex"] 1621859757 "mot.tex" "built/mot.pdf" "mot" 1621859765
-  "built/mot.aux" 1621859765 132 c89ce2280ab791babe7d68932f1c9de6 "pdflatex"
-  "mot.tex" 1621859756 4114 92565b6f24b3970a0d410712b7ff5a05 ""
-  (generated)
-  "built/mot.pdf"
-  "built/mot.log"
-  "built/mot.aux"
